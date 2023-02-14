@@ -1,2 +1,2 @@
 # SBC_loosekit_files
-SBCseries loose kits related Files
+SBC series loose kits related files
